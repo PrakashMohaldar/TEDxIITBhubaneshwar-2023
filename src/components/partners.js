@@ -65,9 +65,9 @@ const Partners = () =>{
                 <SwiperSlide key={index}>
                   <div className="singleClient">
                     <LinkR href={url}>
-                      <a>
+                      
                         <img src={image} alt="" />
-                      </a>
+                      
                     </LinkR>
                   </div>
                 </SwiperSlide>

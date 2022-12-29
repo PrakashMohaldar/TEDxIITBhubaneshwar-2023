@@ -11,12 +11,10 @@ const PageBanner = () =>{
                             <h4 style={{
                                 fontSize: "15px"
                             }}>
-                                <LinkR to="/">
-                                    <a className={`common_btn`}>
+                                <LinkR to="/" className={`common_btn`}>
                                         <span>
                                             Back to Home
                                         </span>
-                                    </a>
                                 </LinkR>
                             </h4>
                             <h4>

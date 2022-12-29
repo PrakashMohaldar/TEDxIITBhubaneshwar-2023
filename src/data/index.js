@@ -2,9 +2,9 @@
 import logoLight from '../assets/images/logo.png'
 
 // data for slider
-import sliderOne01 from "../assets/images/slider/1.2.png";
+import sliderOne02 from "../assets/images/slider/1.2.png";
 // import sliderOne01 from "../assets/images/slider/overlay1.png";
-import sliderOne02 from "../assets/images/slider/4.2.png";
+import sliderOne01 from "../assets/images/slider/4.2.png";
 // import sliderOne01 from "../assets/images/slider/easy.jpg";
 // import sliderOne02 from "../assets/images/slider/without_watermark2_big.jpg";
 
@@ -41,7 +41,6 @@ import aboutTed02 from "../assets/images/about_ted_tedx/about_tedx_img.jpg";
 
 // data for partners
 import partner01 from "../assets/images/partners/1.png";
-
 
 // data for team
 import prakash from "../assets/images/organizers/prakash_img.jpg";

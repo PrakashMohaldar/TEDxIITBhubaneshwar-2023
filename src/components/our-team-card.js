@@ -1,8 +1,8 @@
 import React from "react";
-import { Link as LinkR } from "react-router-dom";
+
 
 const OurTeamCard = ({data}) =>{
-    const { name, occupation, image, url } = data;
+    const { name,image, url } = data;
     return (
         <div className="single_wedo">
             <img src={image} alt={name}/>

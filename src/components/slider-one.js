@@ -77,10 +77,10 @@ const SliderOne = () => {
                 <Col lg={12} className="text-center">
                   <p className="main-slider__subtext">WISSENAIRE brings to you</p>
                   <h3 className="main-slider__title">{title}{timerDays} days</h3>
-                  <LinkS to={button.url} spy={true} smooth={true} offset={0} duration={500}>
-                    <a className={`common_btn`}>
+                  <LinkS to={button.url} spy={true} smooth={true} offset={0} duration={500} className={`common_btn`}>
+                    
                       <span>{button.label}</span>
-                    </a>
+
                   </LinkS>
                 </Col>
               </Row>
