@@ -1789,7 +1789,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  top: 60px;
+  top: -60px;
   opacity: 0;
   margin: auto;
   transition: all .5s ease;
@@ -1857,7 +1857,7 @@
 }
 .banner_content h4 {
   color: #fff;
-  font-size: 18px;
+  font-size: 15px;
   line-height: 36px;
   letter-spacing: 1.8px;
   text-transform: uppercase;
@@ -1878,6 +1878,9 @@
   margin: 0;
   color: #fff;
   text-transform: uppercase;
+}
+.banner_content .common_btn{
+  scale: .7 !important;
 }
 .agency_img1 {
   position: relative;

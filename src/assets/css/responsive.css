@@ -498,6 +498,18 @@ License URI:
   .footer_1 .copyright p{
     line-height: 20px;
   }
+  .wh_choose p{
+    text-align: center !important;
+  }
+  .wh_choose {
+    text-align: center !important;
+  }
+  .detail_TM h6 {
+    line-height: .9 !important;
+  }
+  .singleTM{
+    margin-bottom: 30px;
+  }
 }
 
 /*------------------------------------------------------------------------------------

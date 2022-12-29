@@ -1,4 +1,4 @@
-import React, { useContext, Fragment, useRef } from "react";
+import React, { useContext, useRef } from "react";
 import { Link as LinkR} from "react-router-dom";
 import { Link as LinkS} from "react-scroll"
 import { MenuContext } from '../context/menu-context';
@@ -17,7 +17,7 @@ const PopupMenu = () => {
         <div className="show-overlay-nav">
         <div className="popup popup__menu">
           <a
-            href=""
+            href="/#"
             id="close-popup"
             onClick={handleMenuClick}
             className="close-popup"

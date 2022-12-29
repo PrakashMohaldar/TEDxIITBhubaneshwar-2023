@@ -16,7 +16,7 @@ const AboutTed = () =>{
                                 {posts.map(({title}, index)=>(
                                     <li key={index} className={`${active === index ? "active" : " "}`} >
                                         <a
-                                        href="#"
+                                        href="/#"
                                         onClick={(e) => {
                                             e.preventDefault();
                                             setActive(index);

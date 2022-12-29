@@ -98,7 +98,7 @@ const HeaderOne = () =>{
               <Col lg={2} md={2} sm={4} className="col-6">
                 <div className="navigator text-right">
                   <a
-                    href="#"
+                    href="/#"
                     className="menu mobilemenu d-none d-md-none d-lg-none"
                   >
                     <i className="mei-menu"></i>
@@ -107,7 +107,7 @@ const HeaderOne = () =>{
                     id="open-overlay-nav"
                     className="menu hamburger"
                     onClick={handleMenuClick}
-                    href="#"
+                    href="/#"
                   >
                     <i className="mei-menu"></i>
                   </a>

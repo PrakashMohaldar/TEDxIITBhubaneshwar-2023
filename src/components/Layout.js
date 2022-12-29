@@ -6,7 +6,7 @@ import SpeakerPopup from "./speaker-popup";
 import { Link as ScrollLink } from 'react-scroll';
 
 
-const Layout = ({PageTitle, children }) => {
+const Layout = ({children }) => {
     const { speakerTabStatus } = useContext(SpeakerContext);
     const { menuStatus } = useContext(MenuContext);
     const [scrollTop, setScrollTop] = useState(false);

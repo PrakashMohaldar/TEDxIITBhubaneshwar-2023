@@ -18,7 +18,7 @@ const SpeakerPopup = () =>{
         <div className="searchFixed popupBG animated fadeIn d-block">
             <div className="container-fluid">
                <a
-                  href=""
+                  href="/#"
                   id="sfCloser"
                   onClick={handleSpeakerClick}
                   className="sfCloser"

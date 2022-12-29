@@ -21,7 +21,7 @@ const TeamCard = ({ data }) => {
               </a>
             ))}
           </div>
-          <a href='#' id={index} className="common_btn" onClick={(e) => {
+          <a href='/#' id={index} className="common_btn" onClick={(e) => {
             e.preventDefault()
             handleSpeakerClick(e.currentTarget.id)} 
           }>

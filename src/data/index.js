@@ -2,8 +2,8 @@
 import logoLight from '../assets/images/logo.png'
 
 // data for slider
-import sliderOne02 from "../assets/images/slider/1.2.png";
-// import sliderOne01 from "../assets/images/slider/overlay1.png";
+// import sliderOne02 from "../assets/images/slider/1.2.png";
+import sliderOne02 from "../assets/images/slider/overlay1.png";
 import sliderOne01 from "../assets/images/slider/4.2.png";
 // import sliderOne01 from "../assets/images/slider/easy.jpg";
 // import sliderOne02 from "../assets/images/slider/without_watermark2_big.jpg";
@@ -139,7 +139,7 @@ export const SpeakerData = {
       name: "Sandeep Jain",
       designation: "Founder & CEO, GEEKS FOR GEEKS",
       index:100,
-      url: "#",
+      url: "/#",
       socials: [
         {
           name: "Instagram",
@@ -159,7 +159,7 @@ export const SpeakerData = {
       image: speaker02,
       name: "Manya Singh",
       designation: "Femina Miss India 2020 runner-up",
-      url: "#",
+      url: "/#",
       index:101,
       socials: [
         {
@@ -176,7 +176,7 @@ export const SpeakerData = {
       image: speaker03,
       name: "Maj. Vandana Sharma ",
       designation: "Military Veteran, HR Leader, Adj Faculty IIM Kashipur",
-      url: "#",
+      url: "/#",
       index:102,
       socials: [
         {
@@ -197,7 +197,7 @@ export const SpeakerData = {
       image: speaker04,
       name: "Dr. Satyanarayan Kuchibhatla ",
       designation: "Co-founder, Parisodhana Tech Pvt. Ltd.",
-      url: "#",
+      url: "/#",
       index:103,
       socials: [
         {
@@ -210,7 +210,7 @@ export const SpeakerData = {
       image: speaker05,
       name: "Swapnil Mishra",
       designation: "Founder, Wedium",
-      url: "#",
+      url: "/#",
       index:104,
       socials: [
         {
@@ -223,7 +223,7 @@ export const SpeakerData = {
       image: speaker06,
       name: "Satya Narayan",
       designation: "Founder, Gdroomd & Co-founder,Gocarwash ",
-      url: "#",
+      url: "/#",
       index:105,
       socials: [
         {
@@ -284,67 +284,67 @@ export const previousSpeakerData = {
       title: "Swayam Baral",
       subTitle: "Entrepreneur, Social Worker",
       image: portfolio05,
-      url: "#"
+      url: "/#"
     },
     {
       title: "Naveli Deshmukh",
       subTitle: "Model, Brand Ambassador",
       image: portfolio01,
-      url: "#"
+      url: "/#"
     },
     {
       title: "Anwesha Mishra",
       subTitle: "Founder, Rays of Smile",
       image: portfolio03,
-      url: "#"
+      url: "/#"
     },
     {
       title: "Revant Himatsingka",
       image: portfolio04,
       subTitle: "Author of Selfienomics(Bestseller)",
-      url: "#"
+      url: "/#"
     },
     {
       title: "Aditi Sharma",
       image: portfolio06,
       subTitle: "Actress, Model",
-      url: "#"
+      url: "/#"
     },
     {
       title: "Ajay Kumar Reddy",
       subTitle: "Captain, Indian National Blind Cricket Team",
       image: portfolio02,
-      url: "#"
+      url: "/#"
     },
     {
       title: "Sushant Verma",
       subTitle: "Founder, RAT-LAB",
       image: portfolio07,
-      url: "#"
+      url: "/#"
     },
     {
       title: "Sanjana Sanghi",
       subTitle: "Actress, Model",
       image: portfolio08,
-      url: "#"
+      url: "/#"
     },
     {
       title: "Dr. Jagdish Chatur",
       subTitle: "Doctor, Standup comedian",
       image: portfolio09,
-      url: "#"
+      url: "/#"
     },
     {
       title: "Anuj Tiwari",
       subTitle: "Author",
       image: portfolio10,
-      url: "#"
+      url: "/#"
     },
     {
       title: "Rohit Suraj",
       subTitle: "Founder, Urban Zen",
       image: portfolio11,
-      url: "#"
+      url: "/#"
     },
   ],
 }
@@ -398,27 +398,27 @@ export const PartnersData = {
   },
   items: [
     {
-      url: "#",
+      url: "/#",
       image: partner01
     },
     {
-      url: "#",
+      url: "/#",
       image: partner01
     },
     {
-      url: "#",
+      url: "/#",
       image: partner01
     },
     {
-      url: "#",
+      url: "/#",
       image: partner01
     },
     {
-      url: "#",
+      url: "/#",
       image: partner01
     },
     {
-      url: "#",
+      url: "/#",
       image: partner01
     }
   ]
