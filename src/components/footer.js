@@ -20,7 +20,7 @@ const Footer = ()=>{
                             <ul>
                                 <li>
                                     <a href="https://www.linkedin.com/company/tedx-iit-bbs/about/">
-                                        <i className="fa fa-linkedin"></i>linkdin
+                                        <i className="fa fa-linkedin"></i>linkedin
                                     </a>
                                 </li>
                                 <li>
@@ -45,7 +45,7 @@ const Footer = ()=>{
                     </div>
                     <div className="col-lg-4 col-sm-4 col-md-4">
                         <aside className="widget contact_widgets">
-                            <h3 className="widget_title">Event Venue</h3>
+                            <h3 className="widget_title">Address</h3>
                             <p>
                                 IIT Bhubaneshwar
                                 <br/>
@@ -69,7 +69,7 @@ const Footer = ()=>{
                                 </li>
                                 <li>
                                 <a href="https://www.linkedin.com/in/koushik-2001?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkYn%2FYtJQScyrdgFJpi0L2Q%3D%3D">
-                                    <i className="fa fa-linkedin"></i>linkdin
+                                    <i className="fa fa-linkedin"></i>linkedin
                                 </a>
                                 </li>
                             </ul>

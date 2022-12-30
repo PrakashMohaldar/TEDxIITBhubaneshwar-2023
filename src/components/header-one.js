@@ -37,7 +37,7 @@ const HeaderOne = () =>{
 
           <Container fluid>
             <Row className="justify-content-between">
-              <Col className="col-6" lg={2} md={3} sm={3}>
+              <Col className="col-6" lg={3} md={3} sm={3}>
                 <div className="logo">
                     
                   <LinkR to="/">
@@ -46,7 +46,7 @@ const HeaderOne = () =>{
                     
                 </div>
               </Col>
-              <Col lg={8} sm={8} md={7} className="d-none d-lg-block ">
+              <Col lg={8} sm={8} md={7} className="d-none d-lg-block">
                 <nav className="mainmenu text-center">
                   <ul>
 
@@ -95,7 +95,7 @@ const HeaderOne = () =>{
                   </ul>
                 </nav>
               </Col>
-              <Col lg={2} md={2} sm={4} className="col-6">
+              <Col lg={2} md={2} sm={4} className="col-6 d-lg-none">
                 <div className="navigator text-right">
                   <a
                     href="/#"
