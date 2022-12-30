@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tedxiitbhubaneshwar/static/css/main.654e2ed0.css",
-    "main.js": "/tedxiitbhubaneshwar/static/js/main.395780fa.js",
+    "main.css": "/tedxiitbhubaneshwar/static/css/main.13dcc87d.css",
+    "main.js": "/tedxiitbhubaneshwar/static/js/main.ed7440a9.js",
     "static/media/4.2.png": "/tedxiitbhubaneshwar/static/media/4.2.0b1fb87e9f192d2d8c02.png",
     "static/media/overlay1.png": "/tedxiitbhubaneshwar/static/media/overlay1.dc3d9af6774857a04ed8.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/tedxiitbhubaneshwar/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -78,11 +78,11 @@
     "index.html": "/tedxiitbhubaneshwar/index.html",
     "static/media/line-maker.svg": "/tedxiitbhubaneshwar/static/media/line-maker.d4a31ece52786952ca59.svg",
     "static/media/arrow-back.svg": "/tedxiitbhubaneshwar/static/media/arrow-back.7fedfc4849e6d00d3118.svg",
-    "main.654e2ed0.css.map": "/tedxiitbhubaneshwar/static/css/main.654e2ed0.css.map",
-    "main.395780fa.js.map": "/tedxiitbhubaneshwar/static/js/main.395780fa.js.map"
+    "main.13dcc87d.css.map": "/tedxiitbhubaneshwar/static/css/main.13dcc87d.css.map",
+    "main.ed7440a9.js.map": "/tedxiitbhubaneshwar/static/js/main.ed7440a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.654e2ed0.css",
-    "static/js/main.395780fa.js"
+    "static/css/main.13dcc87d.css",
+    "static/js/main.ed7440a9.js"
   ]
 }
