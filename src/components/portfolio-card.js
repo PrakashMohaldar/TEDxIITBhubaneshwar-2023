@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const PortfolioCard = ({ data }) => {
   const { image, title, url, subTitle } = data;
@@ -8,7 +9,7 @@ const PortfolioCard = ({ data }) => {
       <img src={image} alt={title} />
       <div className="folioHover">
         <h4>
-          <a href={url}>{title}</a>
+          <Link to={url}>{title}</Link>
         </h4>
         <p className="cate">
           {subTitle}

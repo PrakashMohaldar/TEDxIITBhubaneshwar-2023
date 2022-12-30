@@ -1,4 +1,5 @@
 import React from "react";
+import { Link as LinkR } from "react-router-dom";
 import { LogoImage } from "../data";
 
 const Footer = ()=>{
@@ -10,9 +11,9 @@ const Footer = ()=>{
                 <div className="row">
                     <div className="col-lg-5 col-sm-6 col-md-5">
                         <aside className="widget aboutwidget">
-                            <a href="/">
+                            <LinkR to="/">
                                 <img src={light} alt=""/>
-                            </a>
+                            </LinkR>
                             <p>
                             tedxiitbhubaneswar@gmail.com
                             </p>
