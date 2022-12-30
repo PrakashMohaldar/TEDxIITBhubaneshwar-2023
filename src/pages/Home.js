@@ -11,7 +11,7 @@ import SpeakerContextProvider from '../context/speaker-context.js';
 import HeaderOne from '../components/header-one.js';
 import Speakers from '../components/speakers.js';
 import Reasons from './../components/reasons';
-import Partners from './../components/partners';
+// import Partners from './../components/partners';
 
 
 function Home() {
@@ -27,7 +27,7 @@ function Home() {
             <Speakers/>
             <PreviousSpeaker/>
             <Reasons extraClassName="ready_2"/>
-            <Partners/>
+            {/* <Partners/> */}
             <GoogleMap extraClass="contact-page" />
             <Footer />
           </Layout>
