@@ -19,7 +19,7 @@ const root = createRoot(container)
 
 root.render(
   <>
-  <BrowserRouter>
+  <BrowserRouter basename='/tedxiitbhubaneshwar'>
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/Organizers' element={<Organizers/>} />
