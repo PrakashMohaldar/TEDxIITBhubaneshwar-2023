@@ -19,7 +19,7 @@ const root = createRoot(container)
 
 root.render(
   <>
-  <BrowserRouter basename='/tothepoint_login'>
+  <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/Organizers' element={<Organizers/>} />
