@@ -11,7 +11,7 @@ import "./assets/css/preset.css";
 import "./assets/css/theme.css";
 import "./assets/css/responsive.css";
 import "./assets/css/fontello.css"
-import { Routes, Route, Router, BrowserRouter } from 'react-router-dom';
+import { Routes, Route, BrowserRouter, Navigate } from 'react-router-dom';
 
 
 const container = document.getElementById('root');
@@ -23,6 +23,7 @@ root.render(
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/Organizers' element={<Organizers/>} />
+        <Route path='*' element={<Navigate to='/' />} />
       </Routes>
   </BrowserRouter>
   </>

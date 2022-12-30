@@ -21,7 +21,7 @@ const PopupMenu = () => {
             id="close-popup"
             onClick={handleMenuClick}
             className="close-popup"
-          ></a>
+          > </a>
           <div className="container mobileContainer">
             <div className="row">
               <div className="col-lg-12 text-left">

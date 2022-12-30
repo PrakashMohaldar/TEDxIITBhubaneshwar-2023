@@ -22,7 +22,7 @@ const SpeakerPopup = () =>{
                   id="sfCloser"
                   onClick={handleSpeakerClick}
                   className="sfCloser"
-                ></a>
+                > </a>
             </div>
             <div className="commonSection porfolioDetail">
                 <Container>

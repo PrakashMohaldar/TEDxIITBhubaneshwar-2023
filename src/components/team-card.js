@@ -2,7 +2,7 @@ import React, {useContext} from "react";
 import { SpeakerContext } from "../context/speaker-context";
 
 const TeamCard = ({ data }) => {
-  const { image, name, designation, url, socials, index } = data;
+  const { image, name, designation, socials, index } = data;
   const {speakerTabStatus, updateSpeakerTabStatus} = useContext(SpeakerContext);
 
   const handleSpeakerClick = (key) =>{
