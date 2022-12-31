@@ -4,25 +4,27 @@ import SectionTitle from "./section-title";
 import { previousSpeakerData } from "../data";
 import { Swiper, SwiperSlide } from "swiper/react";
 import  PortfolioCard  from './portfolio-card';
-import SwiperCore, { Pagination } from "swiper";
+import SwiperCore, { Pagination, Autoplay } from "swiper";
 import "swiper/swiper-bundle.min.css";
 
-SwiperCore.use([Pagination]);
+SwiperCore.use([Pagination, Autoplay, Pagination]);
 
 const PreviousSpeaker = () =>{
     const {sectionContent, posts} = previousSpeakerData;
+
     const carouselOptions = {
         spaceBetween: 0,
         loop: true,
         slidesPerView: 1,
-        speed:3500,
+        mousewheel: true,
+        speed:800,
         pagination:{
             el: "#team-carousel-pagination",
             type: "bullets",
             clickable: true
         },
         autoplay:{
-            delay: 4000
+            delay: 3500
         },
         breakpoints:{
             0:{
@@ -57,7 +59,7 @@ const PreviousSpeaker = () =>{
                     </Col>
                 </Row>
             </Container>
-            <Swiper className="team_slider" {...carouselOptions}>
+            <Swiper className="team_slider" {...carouselOptions} >
                 {posts.map((post, index)=>(
                     <SwiperSlide key={index}>
                         <PortfolioCard data={post}/>
