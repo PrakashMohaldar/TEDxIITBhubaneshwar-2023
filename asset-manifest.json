@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tedxiitbhubaneshwar/static/css/main.b3981efd.css",
-    "main.js": "/tedxiitbhubaneshwar/static/js/main.a515dae4.js",
+    "main.js": "/tedxiitbhubaneshwar/static/js/main.94d04736.js",
     "static/media/4.2.png": "/tedxiitbhubaneshwar/static/media/4.2.0b1fb87e9f192d2d8c02.png",
     "static/media/overlay1.png": "/tedxiitbhubaneshwar/static/media/overlay1.dc3d9af6774857a04ed8.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/tedxiitbhubaneshwar/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -36,7 +36,6 @@
     "static/media/Abhiram_img.jpg": "/tedxiitbhubaneshwar/static/media/Abhiram_img.f50bb496d97d00f0bdae.jpg",
     "static/media/ajay_kumar_img.jpg": "/tedxiitbhubaneshwar/static/media/ajay_kumar_img.321371f8028e195c6a15.jpg",
     "static/media/rising_img2.jpg": "/tedxiitbhubaneshwar/static/media/rising_img2.8c52b2f9aafdc17b9876.jpg",
-    "static/media/swapnil_mishra_img.jpg": "/tedxiitbhubaneshwar/static/media/swapnil_mishra_img.b7aa962490eac4dc3281.jpg",
     "static/media/katkam_teja_img.jpg": "/tedxiitbhubaneshwar/static/media/katkam_teja_img.79f42cf29752164259a3.jpg",
     "static/media/vandana_sharma_img.jpg": "/tedxiitbhubaneshwar/static/media/vandana_sharma_img.1a95600ba7e0ca8db170.jpg",
     "static/media/Nischal_img.jpg": "/tedxiitbhubaneshwar/static/media/Nischal_img.392d010a221470e0bd29.jpg",
@@ -79,10 +78,10 @@
     "static/media/line-maker.svg": "/tedxiitbhubaneshwar/static/media/line-maker.d4a31ece52786952ca59.svg",
     "static/media/arrow-back.svg": "/tedxiitbhubaneshwar/static/media/arrow-back.7fedfc4849e6d00d3118.svg",
     "main.b3981efd.css.map": "/tedxiitbhubaneshwar/static/css/main.b3981efd.css.map",
-    "main.a515dae4.js.map": "/tedxiitbhubaneshwar/static/js/main.a515dae4.js.map"
+    "main.94d04736.js.map": "/tedxiitbhubaneshwar/static/js/main.94d04736.js.map"
   },
   "entrypoints": [
     "static/css/main.b3981efd.css",
-    "static/js/main.a515dae4.js"
+    "static/js/main.94d04736.js"
   ]
 }
