@@ -15,7 +15,7 @@ import speaker01 from "../assets/images/current_speakers/sandeep_jain_img.jpg";
 import speaker02 from "../assets/images/current_speakers/manya_singh_img.jpg";
 import speaker03 from "../assets/images/current_speakers/vandana_sharma_img.jpg";
 import speaker04 from "../assets/images/current_speakers/satyanarayan_kuchibatla_img.jpg";
-import speaker05 from "../assets/images/current_speakers/swapnil_mishra_img.jpg";
+// import speaker05 from "../assets/images/current_speakers/swapnil_mishra_img.jpg";
 import speaker06 from "../assets/images/current_speakers/satya_narayan_img.jpg";
 
 //  data for previous speaker cards
@@ -206,19 +206,19 @@ export const SpeakerData = {
         }
       ]
     },
-    {
-      image: speaker05,
-      name: "Swapnil Mishra",
-      designation: "Founder, Wedium",
-      url: "/#",
-      index:104,
-      socials: [
-        {
-          name: "Linkedin",
-          url: "https://www.linkedin.com/in/swapnilmishra2"
-        }
-      ]
-    },
+    // {
+    //   image: speaker05,
+    //   name: "Swapnil Mishra",
+    //   designation: "Founder, Wedium",
+    //   url: "/#",
+    //   index:104,
+    //   socials: [
+    //     {
+    //       name: "Linkedin",
+    //       url: "https://www.linkedin.com/in/swapnilmishra2"
+    //     }
+    //   ]
+    // },
     {
       image: speaker06,
       name: "Satya Narayan",
@@ -260,11 +260,11 @@ export const aboutSpeakerData = [
     subtitle: "Co-founder, Parisodhana Technologies Pvt. Ltd.",
     content:"Dr. Satyanarayana Kuchibhatla is the Co-founder of Parisodhana Technologies, created to realize the vision to positively impact lives and livelihoods through innovative products with special focus on low and middle income countries.  He completed his Bachelor of Metallurgical Engineering at Andhra University in 2001 and joined IIT Bombay for M.Tech, in nanomaterials. He did his Ph.D. at the University of Central Florida in Materials Science.\nAt Parisodhana, Dr. Kuchibhatla is on a mission to support million premature babies and offer pain relief to adolescent girls during menstruation to reduce absenteeism at schools through made in India instant, portable, non-electric heating technology based products. The same technology is also used to support Indian armed forces located at high-altitudes and extreme cold conditions to keep them warm. As part of Billion Social Masks initiative, conceptualized in response to the COVID-19 pandemic in collaboration with Tata Power CSR and Tata Steel Foundation, SEWA Federation, SEWA Bharat and other like minded organizations, Dr. Kuchibhatla was instrumental in creating 200,000 hours of employment across 16 states in India with 85% of the work for female artisans.\nFrom creating and characterizing materials at an atomic level using highly sophisticated instruments during his tenure at Pacific Northwest National Laboratory, USA, Dr. Kuchibhatla transitioned to creating products to support and save lives using minimal infrastructure from the small kitchen in a rented apartment in Hyderabad, Telangana, India. Product development at Parisodhana is supported by Grand Challenges Canada, WIN Foundations, IKP Knowledge Park and BIRAC."
   },
-  {
-    // Swapnil Mishra
-    subtitle:"Founder of Wedium, a wedding services marketplace",
-    content:"Founder of Wedium, a wedding services marketplace. Swapnil Mishra is the founder of Wedium, a wedding services marketplace based in Bhubaneshwar and Puri. He completed his education at B.J.B college, Bhubaneshwar, and obtained a Bachelor’s degree in Business Administration and Management, General, in 2021. Wedium is an event management start-up homegrown in IIT Bhubaneswar itself. It is exclusively curated to handle events in conducting a hassle-free wedding. Launching a startup in this turbulent market is challenging, but persistently continuing it requires sheer hard work and dedication."
-  },
+  // {
+  //   // Swapnil Mishra
+  //   subtitle:"Founder of Wedium, a wedding services marketplace",
+  //   content:"Founder of Wedium, a wedding services marketplace. Swapnil Mishra is the founder of Wedium, a wedding services marketplace based in Bhubaneshwar and Puri. He completed his education at B.J.B college, Bhubaneshwar, and obtained a Bachelor’s degree in Business Administration and Management, General, in 2021. Wedium is an event management start-up homegrown in IIT Bhubaneswar itself. It is exclusively curated to handle events in conducting a hassle-free wedding. Launching a startup in this turbulent market is challenging, but persistently continuing it requires sheer hard work and dedication."
+  // },
   {
     // Satya Narayan
     subtitle:"Founder of Ggroomd+Co-founder of Gocarwash",
