@@ -445,7 +445,7 @@ export const TeamData = [
     posts: [
       {
         name: "Muppidi Shishir Reddy",
-        occupation:"Cheif Coordiator,Wissenaire'23",
+        occupation:"Chief Coordiator, Wissenaire'23",
         image: shishir,
         url: 'https://www.linkedin.com/in/shishir-reddy-737b42239/?originalSubdomain=in'
       },
@@ -520,7 +520,7 @@ export const TeamData = [
   },
   {
     sectionContent: {
-      title: "Sponsership"
+      title: "Sponsorship"
     },
     posts: [
       {
