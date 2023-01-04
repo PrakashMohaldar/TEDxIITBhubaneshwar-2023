@@ -99,7 +99,7 @@ export const SliderOneData = [
   {
     image: sliderOne01,
     subTitle: "WISSENAIRE brings to you",
-    title: `TEDx IIT Bhubaneshwar\n Live in `,
+    title: `TEDx IIT Bhubaneswar\n Live in `,
     button: {
       label: "DISCOVER MORE",
       url: "abTheme"
@@ -108,7 +108,7 @@ export const SliderOneData = [
   {
     image: sliderOne02,
     subTitle: "WISSENAIRE brings to you",
-    title: `Tedx IIT Bhubaneshwar\n Live in `,
+    title: `Tedx IIT Bhubaneswar\n Live in `,
     button: {
       label: "DISCOVER MORE",
       url: "abTheme"
@@ -263,7 +263,7 @@ export const aboutSpeakerData = [
   // {
   //   // Swapnil Mishra
   //   subtitle:"Founder of Wedium, a wedding services marketplace",
-  //   content:"Founder of Wedium, a wedding services marketplace. Swapnil Mishra is the founder of Wedium, a wedding services marketplace based in Bhubaneshwar and Puri. He completed his education at B.J.B college, Bhubaneshwar, and obtained a Bachelor’s degree in Business Administration and Management, General, in 2021. Wedium is an event management start-up homegrown in IIT Bhubaneswar itself. It is exclusively curated to handle events in conducting a hassle-free wedding. Launching a startup in this turbulent market is challenging, but persistently continuing it requires sheer hard work and dedication."
+  //   content:"Founder of Wedium, a wedding services marketplace. Swapnil Mishra is the founder of Wedium, a wedding services marketplace based in Bhubaneswar and Puri. He completed his education at B.J.B college, Bhubaneswar, and obtained a Bachelor’s degree in Business Administration and Management, General, in 2021. Wedium is an event management start-up homegrown in IIT Bhubaneswar itself. It is exclusively curated to handle events in conducting a hassle-free wedding. Launching a startup in this turbulent market is challenging, but persistently continuing it requires sheer hard work and dedication."
   // },
   {
     // Satya Narayan
@@ -353,7 +353,7 @@ export const aboutTedData = {
   posts: [
     {
       title: "What is TEDx ?",
-      content: "In the spirit of ideas worth spreading, TED has created a program called TEDx. TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDxIITBhubaneshwar, where x = independently organized TED event. At our TEDxIITBhubaneshwar event, TED Talks video and live speakers will combine to spark deep discussion and connection in a small group. The TED Conference provides general guidance for the TEDx program, but individual TEDx events, including ours, are self-organized.",
+      content: "In the spirit of ideas worth spreading, TED has created a program called TEDx. TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. Our event is called TEDxIITBhubaneswar, where x = independently organized TED event. At our TEDxIITBhubaneswar event, TED Talks video and live speakers will combine to spark deep discussion and connection in a small group. The TED Conference provides general guidance for the TEDx program, but individual TEDx events, including ours, are self-organized.",
       image: aboutTed02,
       url: "https://www.ted.com/about/programs-initiatives/tedx-program"
     },
