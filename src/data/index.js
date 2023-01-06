@@ -224,7 +224,7 @@ export const SpeakerData = {
       name: "Satya Narayan",
       designation: "Founder, Gdroomd & Co-founder,Gocarwash ",
       url: "/#",
-      index:105,
+      index:104,
       socials: [
         {
           name: "Linkedin",
