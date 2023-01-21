@@ -20,7 +20,7 @@ const PageBanner = () =>{
                             <h4>
                                 TED<span style={{
                                     textTransform: "lowercase",
-                                }}>x</span>IITBhubaneshwar 2023
+                                }}>x</span>IITBhubaneswar 2023
                             </h4>
                             <h2>Organizing Team</h2>
                         </div>

@@ -47,7 +47,7 @@ const Footer = ()=>{
                         <aside className="widget contact_widgets">
                             <h3 className="widget_title">Address</h3>
                             <p>
-                                IIT Bhubaneshwar
+                                IIT Bhubaneswar
                                 <br/>
                                 Community center, Argul-Jatni Rd
                                 <br/>
@@ -81,7 +81,7 @@ const Footer = ()=>{
                         <div className="copyright">
                             <p>
                             © copyright {new Date().getFullYear()} by{" "}
-                            TED<span style={{textTransform:"lowercase"}}>x</span> IIT Bhubaneshwar {'\u00A0'}|{'\u00A0'}  Designed and developed by Wissenaire Web Team {'\u00A0'}|{'\u00A0'}<br/> This independent TEDx event is operated under license from TED.
+                            TED<span style={{textTransform:"lowercase"}}>x</span> IIT Bhubaneswar {'\u00A0'}|{'\u00A0'}  Designed and developed by Wissenaire Web Team {'\u00A0'}|{'\u00A0'}<br/> This independent TEDx event is operated under license from TED.
                             </p>
                         </div>
                     </div>
